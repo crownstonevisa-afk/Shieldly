@@ -15,7 +15,7 @@ A static, framework-free website (plain HTML, one shared `styles.css`, one small
 - `styles.css`, `script.js` — shared design (photorealistic photo headers via picsum.photos, navy/emerald/gold palette, glassmorphism) and behaviour (mobile nav, FAQ accordion, article filter, form thank-you messages, current year)
 - `BUILD_REPORT.md` — build verification: file list, per-article word counts, link check, image seed status
 
-Canonical base URL used throughout: https://shieldly-lemon.vercel.app/
+Canonical base URL used throughout: https://shieldly.buzz/
 
 ## How to deploy
 
@@ -36,7 +36,7 @@ This is a plain static site — no build step.
 
 - **ads.txt** — deliberately NOT included in this build. Create `ads.txt` at the site root only with your real publisher line from AdSense, in the form: `google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0` (replace the X's with your own publisher ID). Publishing a placeholder or someone else's ID can break monetisation.
 - **AdSense code** — paste the Auto ads / ad unit code AdSense provides just before `</head>` (or per AdSense's current instructions) on every page, or use the Vercel/host-level snippet if available.
-- **Google Search Console** — verify the property, submit `https://shieldly-lemon.vercel.app/sitemap.xml` (or the custom-domain equivalent), and check Coverage for indexing errors.
+- **Google Search Console** — verify the property, submit `https://shieldly.buzz/sitemap.xml` (or the custom-domain equivalent), and check Coverage for indexing errors.
 - **Custom domain** — in Vercel: Project > Settings > Domains, add your domain, set the DNS records Vercel shows at your registrar, wait for the SSL certificate, then update every canonical URL, `sitemap.xml`, and `robots.txt` from `shieldly.vercel.app` to the new domain and re-submit the sitemap in Search Console and to AdSense (Add site) if the domain changed after approval.
 - **Analytics (optional)** — add Google Analytics 4 only with appropriate cookie consent handling for EEA/UK visitors.
 
