@@ -1,1 +1,55 @@
-{"$schema":"https://openapi.vercel.sh/vercel.json","cleanUrls":false,"headers":[{"headers":[{"key":"X-Content-Type-Options","value":"nosniff"},{"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"}],"source":"/(.*)"}],"redirects":[{"destination":"https://shieldly.buzz/:path*","has":[{"type":"host","value":"www.shieldly.buzz"}],"permanent":true,"source":"/:path*"},{"destination":"https://shieldly.buzz/:path*","has":[{"type":"host","value":"shieldly-lemon.vercel.app"}],"permanent":true,"source":"/:path*"},{"destination":"https://shieldly.buzz/:path*","has":[{"type":"host","value":"shieldly-laam-buzz.vercel.app"}],"permanent":true,"source":"/:path*"}],"trailingSlash":false}
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "cleanUrls": false,
+  "trailingSlash": false,
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.laam.buzz"
+        }
+      ],
+      "destination": "https://laam.buzz/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "shieldly-lemon.vercel.app"
+        }
+      ],
+      "destination": "https://laam.buzz/:path*",
+      "permanent": true
+    },
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "shieldly-laam-buzz.vercel.app"
+        }
+      ],
+      "destination": "https://laam.buzz/:path*",
+      "permanent": true
+    }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "X-Content-Type-Options",
+          "value": "nosniff"
+        },
+        {
+          "key": "Referrer-Policy",
+          "value": "strict-origin-when-cross-origin"
+        }
+      ]
+    }
+  ]
+}
