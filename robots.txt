@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shieldly.buzz/sitemap.xml
+Sitemap: https://laam.buzz/sitemap.xml
