@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shieldly-lemon.vercel.app/sitemap.xml
+Sitemap: https://shieldly.buzz/sitemap.xml
