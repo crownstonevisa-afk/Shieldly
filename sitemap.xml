@@ -1,36 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://laam.buzz/</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/about.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/contact.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/privacy-policy.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/terms.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/disclaimer.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/editorial-policy.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/sitemap.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/tools.html</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://laam.buzz/tools/insurance-cost-calculator.html</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://laam.buzz/tools/coverage-needs-calculator.html</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://laam.buzz/tools/cyber-risk-checker.html</loc><lastmod>2026-10-18</lastmod></url>
-<url><loc>https://laam.buzz/articles/small-business-insurance-guide.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/general-liability-insurance.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/professional-liability-errors-omissions.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/cyber-insurance-small-business.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/workers-compensation-insurance.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/commercial-property-insurance.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/business-owners-policy-bop.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/business-interruption-insurance.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/commercial-auto-insurance.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/product-liability-insurance.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/business-insurance-cost.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/insurance-for-contractors.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/insurance-for-restaurants.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/insurance-for-online-stores-ecommerce.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/insurance-for-consultants-freelancers.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/how-to-file-a-business-insurance-claim.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/certificate-of-insurance-explained.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/cyber-security-checklist-small-business.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/data-breach-response-plan.html</loc><lastmod>2026-10-17</lastmod></url>
-<url><loc>https://laam.buzz/articles/insurance-terms-glossary.html</loc><lastmod>2026-10-17</lastmod></url>
+  <url><loc>https://laam.buzz/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://laam.buzz/products.html</loc><changefreq>weekly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://laam.buzz/products/vault-estate-suite.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://laam.buzz/products/senior-health-portal.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://laam.buzz/products/accessibility-blueprint-portal.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://laam.buzz/about.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://laam.buzz/contact.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://laam.buzz/privacy-policy.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://laam.buzz/terms.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
+  <url><loc>https://laam.buzz/disclaimer.html</loc><changefreq>yearly</changefreq><priority>0.4</priority></url>
 </urlset>
